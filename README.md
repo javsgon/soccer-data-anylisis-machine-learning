@@ -1,7 +1,7 @@
 # Data Analysis and Machine Learning
 
 ## Project Objective
-- Go through different algorithms learned as well as functions and steps practiced during different exercises.
+- Use of different ML algorithms learned as well as functions and steps practiced during different exercises.
 
 ## Libraries used
 These are the libraries used in the entire project:
